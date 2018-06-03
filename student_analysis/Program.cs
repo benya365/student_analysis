@@ -12,8 +12,7 @@ namespace student_analysis
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //Application.Run(new uspevaemostModule());
-            //there is a change for sync try
-        }        
+        }
     }
 
     static class auth
